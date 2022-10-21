@@ -1,4 +1,4 @@
-# osu_api_wrapper
+# osu! APIv1 Wrapper
 ## About it
 This is a small wrapper for osu! APIv1 written in Python
 
